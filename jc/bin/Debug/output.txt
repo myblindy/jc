@@ -1,0 +1,2 @@
+Syntax error at line 2, expected 'Identifier', got instead '{', a OpenBrace
+Syntax error at line 3, expected 'EndOfFile', got instead 'int', a Reserved

@@ -1,0 +1,44 @@
+class foo
+{
+  int kind;
+  float foo[4][3];
+
+  int getKind()
+  { 
+    return(kind[1]2+3+4);
+  };
+};
+
+program
+{
+
+  // variable declaration
+  Foo foo;
+
+  // complex expression
+  cout(foo[0][1].var[0][1][2].getTick());//.getKind());
+
+  // for with no body
+  for(i:=0;;i<100;i:=i+1;);
+
+  // for with 1 statement as body
+  for(i:=0;;i<100;i:=i+1;) t:=meep();;
+
+  // for with a block as body
+  for(i:=0;;i<100;i:=i+1;) 
+  {
+    t:=meep();
+    if(meep())then
+      cout(a);
+    else
+    {
+      t:=!meep2();
+      t:=t||!t;
+    }
+    fi;
+  };
+
+  cin(a);
+
+  t:=meep;
+};

@@ -1,0 +1,37 @@
+class C
+{
+	int x;
+	int y;
+	
+	int f(B b)
+	{
+		int a;
+		int x;
+		
+		a:=5;
+		x:=2;
+	
+		return((x*10+y)*a*b.x);
+	};
+};
+
+class B
+{
+	int x;
+};
+
+program
+{
+	int a;
+	C c;
+	B b;
+	
+	c.x:=3;
+	c.y:=5;
+	
+	b.x:=1;
+	
+	a:=c.f(b);
+	cout(a);
+	cout(c.x);
+};

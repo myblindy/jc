@@ -1,0 +1,74 @@
+Global
+======
+
+- Function $program
+  Type: <no type>
+  Symbol Table:
+  $program
+  ========
+  
+  - Variable a
+    Type: int
+    Array Size: <single item>
+    Size: 4
+    Offset: 0
+  - Variable b
+    Type: B
+    Array Size: <single item>
+    Size: 4
+    Offset: 4
+  - Variable c
+    Type: C
+    Array Size: <single item>
+    Size: 8
+    Offset: 8
+- Class B
+  Class Size: 4
+  Symbol Table:
+  B
+  =
+  
+  - Variable x
+    Type: int
+    Array Size: <single item>
+    Size: 4
+    Offset: 0
+- Class C
+  Class Size: 8
+  Symbol Table:
+  C
+  =
+  
+  - Function f
+    Type: int
+    Parameter: b of type B, size 4 and array size <single item>
+    Symbol Table:
+    f
+    =
+    
+    - Variable a
+      Type: int
+      Array Size: <single item>
+      Size: 4
+      Offset: 0
+    - Variable b
+      Type: B
+      Array Size: <single item>
+      Size: 4
+      Offset: 4
+    - Variable x
+      Type: int
+      Array Size: <single item>
+      Size: 4
+      Offset: 8
+  - Variable x
+    Type: int
+    Array Size: <single item>
+    Size: 4
+    Offset: 0
+  - Variable y
+    Type: int
+    Array Size: <single item>
+    Size: 4
+    Offset: 4
+

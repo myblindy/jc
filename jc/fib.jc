@@ -1,0 +1,22 @@
+program
+{
+	int i;
+	
+	for(i:=0; ; i<=10 ; i:=i+1;)
+	{
+		cout(fib(i));
+	};
+};
+
+int fib(int a)
+{
+	if(a==0) then
+		return(0);
+	else
+		if(a==1)then
+			return(1);
+		else
+			return(fib(a-1)+fib(a-2));
+		fi;
+	fi;
+};

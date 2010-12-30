@@ -1,0 +1,5 @@
+D:\marius\c#\jc\jc\obj\Release\ResolveAssemblyReference.cache
+D:\marius\c#\jc\jc\bin\Release\jc.exe
+D:\marius\c#\jc\jc\bin\Release\jc.pdb
+D:\marius\c#\jc\jc\obj\Release\jc.exe
+D:\marius\c#\jc\jc\obj\Release\jc.pdb

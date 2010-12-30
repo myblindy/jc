@@ -1,0 +1,5 @@
+D:\marius\c#\jc\jc\bin\Debug\jc.exe
+D:\marius\c#\jc\jc\bin\Debug\jc.pdb
+D:\marius\c#\jc\jc\obj\Debug\ResolveAssemblyReference.cache
+D:\marius\c#\jc\jc\obj\Debug\jc.exe
+D:\marius\c#\jc\jc\obj\Debug\jc.pdb

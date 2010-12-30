@@ -1,0 +1,27 @@
+Global
+======
+
+- Function $program
+  Type: <no type>
+  Symbol Table:
+  $program
+  ========
+  
+  - Variable i
+    Type: int
+    Array Size: <single item>
+    Size: 4
+    Offset: 0
+- Function fib
+  Type: int
+  Parameter: a of type int, size 4 and array size <single item>
+  Symbol Table:
+  fib
+  ===
+  
+  - Variable a
+    Type: int
+    Array Size: <single item>
+    Size: 4
+    Offset: 0
+
